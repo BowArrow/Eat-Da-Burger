@@ -1,1 +1,2 @@
 # Eat-Da-Burger
+This project tests my ability to write code with MVC, Handlebars, and MySQL. You can create a burger and eat it. I ran out of time for this assignment but I do plan on implementing visual assets to it as well.
